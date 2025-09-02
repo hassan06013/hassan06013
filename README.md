@@ -34,14 +34,25 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hassan06013&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan06013&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🐍 Contributions Snake
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hassan06013&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hassan06013&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -54,9 +65,11 @@
 
 ### 📫 Where to find me
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YourEmail@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hm0601234@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  📱 Phone 1: <b>01149312847</b> | 📱 Phone 2: <b>01202399265</b>
 </p>
 
 ---
@@ -64,5 +77,5 @@
 <p align="center">
   ⭐️ From <b>Hassan Mostafa</b> | Always learning and building 🚀  
   <br>  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hassan06013.hassan06013)
 </p>
