@@ -1,10 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align="center">
+  Hey, I'm Hassan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
+</h1>
 
-<p>Welcome to my page! </br> I'm <b>Hassan Mostafa</b>, a student at <b>Faculty of Computers & Artificial Intelligence</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>. </p>
+<p align="center">
+  <b>Welcome to my GitHub Profile 🚀</b>  
+</p>
 
 ---
 
-<h3>💻 Things I’m learning & coding with</h3>
+### ⌨️ About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&width=500&lines=Hassan+Mostafa;Computer+Science+Student;Faculty+of+Computers+%26+AI;Learning+AI+%26+Web+Development)](https://git.io/typing-svg)
+
+---
+
+### 💻 Things I’m learning & coding with
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Database" src="https://img.shields.io/badge/-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -17,14 +26,34 @@
 
 ---
 
-<h3>🚀 Projects</h3>
+### 🚀 Projects
 <p>🔹 Currently working on small projects for learning purposes.  
 🔹 Planning to share future projects here soon!</p>
 
 ---
 
-<h3>📫 Where to find me</h3>
-<p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contributions Snake
+![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎬 Fun GIF
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+---
+
+### 📫 Where to find me
+<p align="center">
   <a href="https://github.com/YourGitHubUsername" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YourEmail@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -32,4 +61,8 @@
 
 ---
 
-<p align="center">⭐️ From <b>Hassan Mostafa</b> | Always learning and building 🚀</p>
+<p align="center">
+  ⭐️ From <b>Hassan Mostafa</b> | Always learning and building 🚀  
+  <br>  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+</p>
